@@ -1,0 +1,9 @@
+.runtime
+build
+target
+data
+tmp
+.env
+.env.*
+.git
+*.log
